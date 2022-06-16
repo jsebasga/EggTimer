@@ -1,6 +1,6 @@
 Egg Timer, Developed by Sebastian Güiza, using Xcode and App Brewery
 
-*** Egg Timer ***
+# *** Egg Timer ***
 
 What I learn in this module was:
 
@@ -13,4 +13,4 @@ What I learn in this module was:
 
 Everybody who wants to use this application, ¡¡¡ Enjoy it !!!
 
-
+![Main Screen](EggTimerScreen.png)
