@@ -1,9 +1,8 @@
 //
-//  SceneDelegate.swift
-//  EggTimer
+//  ViewController.swift
+//  Egg Timer
 //
-//  Created by Angela Yu on 08/07/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Sebastian Güiza 15-06-22
 //
 
 import UIKit

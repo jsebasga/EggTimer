@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  EggTimer
+//  Egg Timer
 //
-//  Created by Sebas on 15/06/22.
+//  Created by Sebastian Güiza 15-06-22
 //
 
 //Libreria General
